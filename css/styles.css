@@ -52,11 +52,11 @@ a, a:hover{
 }
 .dsmovie-card{
     /*position: absolute;*/
-    width: 260px;
-    height: 349px;
-    /*top: 130px;
-    left: 33px;*/
-    border-radius: 8px;
+    width: 100%;
+    /*height: 349px;
+    top: 130px;
+    left: 33px;
+    border-radius: 8px;*/
    
 }
 .dsmovie-card img {
